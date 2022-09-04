@@ -1,1 +1,1 @@
-export const WS_URL = "http://127.0.0.1:3000"
+export const WS_URL = "https://cukoo-team-clone-backend-emlijhkxb-mohamedgouaouri.vercel.app"
