@@ -1,1 +1,1 @@
-export const WS_URL = "https://cukoo-team-clone-backend-emlijhkxb-mohamedgouaouri.vercel.app"
+export const WS_URL = "https://c794-154-246-229-234.ngrok.io"
